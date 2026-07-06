@@ -4,7 +4,7 @@
 
 ```
 👩‍💻 Estudante de Análise e Desenvolvimento de Sistemas na Fatec de Franca com término em dezembro de 2026.
-🤝 À procura de estágio para aplicar e expandir meu conhecimento, desenvolvendo habilidades com programação e análise no caminho.
+🤝 À procura de oportunidades para aplicar o que estou aprendendo e desenvolver habilidades tecnológicas e pessoais.  
 ```
 
 ### Tecnologias e Linguagens 
